@@ -25,3 +25,5 @@ Replace the first row with your own contribution.
 | Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
 |     |     |     |      |
 |     |     |     |      |
+
+<img src="/gboeker-weekly/images/Untitled_Artwork 2.png" alt="drawing" width="200"/>

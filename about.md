@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Glenda and I am a Computer Science student at NYU. I like learning about psychology and aninmation as well. I grew up in Mountain View, California, and Shanghai, China. And I enjoy playing tennis.
+Hi, I'm Glenda and I am a Computer Science student at NYU. I enjoy learning about psychology, and playing around with animation, digital art, and pottery. I grew up in Mountain View, California, and Shanghai, China. And I play tennis for the NYU team :)
 
-<img src="images/IMG_0723.PNG" alt="drawing" width="200"/>
+<img src="/gboeker-weekly/images/IMG_0723.PNG" alt="drawing" width="200"/>
 
-<!-- ![image](images/IMG_0723.PNG) -->
+<!-- ![image](/gboeker-weekly/images/IMG_0723.PNG) -->
+
 
