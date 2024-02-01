@@ -22,7 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 1   | [Mochi Donut Article](https://en.wikipedia.org/w/index.php?title=Mochi_donut&oldid=1201970863)    | Wikipedia    |   Minor description and citation edits   |
 |     |     |     |      |
 |     |     |     |      |
 
