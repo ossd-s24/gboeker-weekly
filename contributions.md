@@ -25,5 +25,6 @@ Replace the first row with your own contribution.
 | Feb 1 | [Mochi Donut Article](https://en.wikipedia.org/w/index.php?title=Mochi_donut&oldid=1201970863) | Wikipedia | Minor description and citation edits |
 | Feb 11 | [OSSD Pull Request](https://github.com/joannakl/ossd/pull/89) | OSSD Version Control Slides | Correct slide info |
 | Feb 12 | [Henry Zhang Blog Pull Request](https://github.com/ossd-s24/nrezhang-weekly/pull/1) | OSSD Student Blog | Fixed Broken Link |
+| Feb 13 | [Free Code Camp Pull Request](https://github.com/freeCodeCamp/freeCodeCamp/pull/53693) | Free Code Camp | Fixed issue, change description |
 
 <img src="/gboeker-weekly/images/Untitled_Artwork 2.png" alt="drawing" width="200"/>
