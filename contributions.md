@@ -28,5 +28,7 @@ Replace the first row with your own contribution.
 | Feb 13 | [Free Code Camp Pull Request](https://github.com/freeCodeCamp/freeCodeCamp/pull/53693) | Free Code Camp | Fixed issue, change description |
 | Feb 15 | [Sam Frank](https://github.com/ossd-s24/SamFrank234-weekly/issues/1) | OSSD Student Blog | Raised Typo Issue |
 | Feb 18 | [Issue 1](https://github.com/ossd-s24/TikTock/issues/11), [Issue 2](https://github.com/ossd-s24/TikTock/issues/12), [Issue 3](https://github.com/ossd-s24/TikTock/issues/13) | TikTock Browser Extension | Raised Issues |
-| Mar 28 | [Map Edits](https://www.openstreetmap.org/user/Bagelthebeagle/history#map=19/40.73327/-73.98760) |  Open Street Maps | Added Location |
+| Mar 28 | [Map Edits](https://www.openstreetmap.org/user/Bagelthebeagle/history#map=19/40.73327/-73.98760) | Open Street Maps | Added Location |
+
+
 <img src="/gboeker-weekly/images/Untitled_Artwork 2.png" alt="drawing" width="200"/>
