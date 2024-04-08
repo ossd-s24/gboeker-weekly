@@ -30,6 +30,6 @@ Replace the first row with your own contribution.
 | Feb 18 | [Issue 1](https://github.com/ossd-s24/TikTock/issues/11), [Issue 2](https://github.com/ossd-s24/TikTock/issues/12), [Issue 3](https://github.com/ossd-s24/TikTock/issues/13) | TikTock Browser Extension | Raised Issues |
 | Mar 28 | [Map Edits](https://www.openstreetmap.org/user/Bagelthebeagle/history#map=19/40.73327/-73.98760) | Open Street Maps | Added Location |
 | Apr 8 | [Map Edits](https://www.openstreetmap.org/user/Bagelthebeagle/history#map=19/40.73327/-73.98760) | Open Street Maps | Removed closed pizza store |
-
+| Apr 9 | [NYU Violets](https://en.wikipedia.org/w/index.php?title=NYU_Violets&oldid=1217924886) | Wikipedia | Added NYU Paulson building name |
 
 <img src="/gboeker-weekly/images/Untitled_Artwork 2.png" alt="drawing" width="200"/>
